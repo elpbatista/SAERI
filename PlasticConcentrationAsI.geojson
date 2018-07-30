@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Site": Long,
+        "Site": "Long",
         "Mean": 0.4,
         "SE": 0.244948974278318
       },
@@ -79,7 +79,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Site": English,
+        "Site": "English",
         "Mean": 4.2,
         "SE": 2.0591260281974
       },
