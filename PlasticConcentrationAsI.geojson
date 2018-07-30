@@ -64,15 +64,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Site": 4,
-        "Mean": 4,
-        "SE": 1.30384048104053
+        "Site": Long,
+        "Mean": 0.4,
+        "SE": 0.244948974278318
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.34095,
-          -7.91233
+          -14.40909,
+          -7.92378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site": English,
+        "Mean": 4.2,
+        "SE": 2.0591260281974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.64921,
+          -8.49124
         ]
       }
     }
