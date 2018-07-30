@@ -165,6 +165,21 @@
           -51.65668
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site": "Cape Dolphin",
+        "Mean": 8.4,
+        "SE": 1.20830459735946
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.96087646484375,
+          -51.241285769546685
+        ]
+      }
     }
   ]
 }
