@@ -19,6 +19,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": "Fitzroy",
         "Mean": 3.6,
         "SE": 0.678232998312527
@@ -34,6 +37,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff1300",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": "Bertha",
         "Mean": 2.8,
         "SE": 1.113552872566
@@ -49,6 +55,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": "New Haven",
         "Mean": 7,
         "SE": 2.78088714861523
@@ -154,6 +163,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#48ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": "Port William",
         "Mean": 9,
         "SE": 0.244948974278318
