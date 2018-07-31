@@ -45,7 +45,7 @@
         "Site": "Bertha",
         "Mean": 2.8,
         "SE": 1.113552872566,
-        "Errors": "FitzRoy"
+        "Errors": "in FitzRoy"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +64,7 @@
         "Site": "New Haven",
         "Mean": 7,
         "SE": 2.78088714861523,
-        "Errors": "Berthas Beach"
+        "Errors": "in Berthas Beach"
       },
       "geometry": {
         "type": "Point",
