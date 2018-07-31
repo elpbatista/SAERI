@@ -6,7 +6,8 @@
       "properties": {
         "Site": "Stanley",
         "Mean": 3.2,
-        "SE": 0.66332495807108
+        "SE": 0.66332495807108,
+        "Errors": ""
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +25,8 @@
         "marker-symbol": "",
         "Site": "Fitzroy",
         "Mean": 3.6,
-        "SE": 0.678232998312527
+        "SE": 0.678232998312527,
+        "Errors": "wrong position"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "marker-symbol": "",
         "Site": "Bertha",
         "Mean": 2.8,
-        "SE": 1.113552872566
+        "SE": 1.113552872566,
+        "Errors": "FitzRoy"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +63,8 @@
         "marker-symbol": "",
         "Site": "New Haven",
         "Mean": 7,
-        "SE": 2.78088714861523
+        "SE": 2.78088714861523,
+        "Errors": "Berthas Beach"
       },
       "geometry": {
         "type": "Point",
@@ -168,7 +172,8 @@
         "marker-symbol": "",
         "Site": "Port William",
         "Mean": 9,
-        "SE": 0.244948974278318
+        "SE": 0.244948974278318,
+        "Errors": "in the middle of the sea"
       },
       "geometry": {
         "type": "Point",
