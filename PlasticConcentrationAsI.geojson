@@ -79,6 +79,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#00ff08",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": "English",
         "Mean": 4.2,
         "SE": 2.0591260281974
