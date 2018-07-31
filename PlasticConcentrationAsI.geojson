@@ -19,6 +19,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#28ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": 2,
         "Mean": 8,
         "SE": 2.50998007960223
@@ -49,6 +52,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#02f802",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Site": 4,
         "Mean": 4,
         "SE": 1.30384048104053
