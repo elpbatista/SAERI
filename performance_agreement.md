@@ -6,21 +6,21 @@
   **date:**  December 2018
 #### Deliverables
   1. Implement a GeoSpacial infrastructure based on [FOOS][5] to be acceded locally (SAERI and other Institutions)
-  - Set and maintain a Linux server (VM) to host the IMS services
-  - Implement a WebMapping platform to share the ISM datasets
-  - Implement a Data discovery mechanism based on the IMS metadata catalogues (GeoServer)
-  - Implement an [API][6] (Mapserver, QGIS-Server) to interact in a secure way with the IMS databases (PostgreSQL+PostGIS)
-  - GIS Training program
+  2. Set and maintain a Linux server (VM) to host the IMS services
+  3. Implement a WebMapping platform to share the ISM datasets
+  4. Implement a Data discovery mechanism based on the IMS metadata catalogues (GeoServer)
+  5. Implement an [API][6] (Mapserver, QGIS-Server) to interact in a secure way with the IMS databases (PostgreSQL+PostGIS)
+  6. GIS Training program
 
 ### 2. Contribute to [OpenSource][0] the ISM-DataCentre
   OpenSource not only refers to computer software, including as well data and standards  
   **date:**  December 2018
 #### Deliverables
   1. Introduce FOOS4G (PostgreSQL+PostGIS, Mapserver, QGIS-Server, GeoServer)
-  - Implement OGC standards for the IMS services
-  - Work in an Open Licence based on [Creative Commons][4] for the IMS-DataCentre
-  - Add attribution line to IMS's deliverables (maps, datasets, images...)
-  - Contribute to build community with the IMS's users and stablish links with other global communities such as OpenStreetMap, OSGeo, OKF...
+  2. Implement OGC standards for the IMS services
+  3. Work in an Open Licence based on [Creative Commons][4] for the IMS-DataCentre
+  4. Add attribution line to IMS's deliverables (maps, datasets, images...)
+  5. Contribute to build community with the IMS's users and stablish links with other global communities such as OpenStreetMap, OSGeo, OKF...
 
 ## Personal Development and Training
 ### Required to implement objectives
@@ -28,9 +28,9 @@
 
 ## 360° Feedback
 1. iLaria
-- Neil
-- Marina
-- Dani
+2. Neil
+3. Marina
+4. Dani
 
 ## References
 
